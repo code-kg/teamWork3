@@ -1,5 +1,9 @@
 Timur
 Aman
 Adilet
+<<<<<<< HEAD
 Bulan
 
+=======
+Bulan
+>>>>>>> 58180a7572975ac402cc82bfe49db2e5865de21f
